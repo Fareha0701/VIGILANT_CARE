@@ -1,8 +1,5 @@
 # vigilant_care:Safety App
 
-A new Flutter project.
-
-## Getting Started
 Vigilant Care is a safety app designed to provide users with tools to enhance their personal safety. It allows users to easily share their location, send alerts in emergency situations, and access important contact information quickly.
 
 #Features
@@ -21,11 +18,4 @@ Vigilant Care is a safety app designed to provide users with tools to enhance th
   ContactsService for managing emergency contacts.
   Sqflite for local storage.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
